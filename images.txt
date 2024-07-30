@@ -21,3 +21,5 @@ hslr/sun-panel
 chemistryhuang/typecho
 jesec/flood
 jesec/rtorrent
+nevadax0120/cloudreve:latest
+ddsderek/aria2-pro
