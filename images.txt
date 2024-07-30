@@ -18,6 +18,7 @@ whyour/qinglong
 crazymax/rtorrent-rutorrent
 hslr/sun-panel
 chemistryhuang/typecho
+lu6fer/flood-rtorrent:latest
 jesec/rtorrent-flood:latest
 jesec/flood:latest
 jesec/rtorrent:latest
