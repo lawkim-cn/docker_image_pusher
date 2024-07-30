@@ -19,3 +19,5 @@ jesec/rtorrent-flood
 crazymax/rtorrent-rutorrent
 hslr/sun-panel
 chemistryhuang/typecho
+jesec/flood
+jesec/rtorrent
