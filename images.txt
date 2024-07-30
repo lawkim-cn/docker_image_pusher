@@ -18,11 +18,10 @@ whyour/qinglong
 crazymax/rtorrent-rutorrent
 hslr/sun-panel
 chemistryhuang/typecho
-lu6fer/flood-rtorrent:latest
+blade2005/flood-rtorrent
 jesec/rtorrent-flood:latest
 jesec/flood:latest
 jesec/rtorrent:latest
 nevadax0120/cloudreve:latest
 ddsderek/aria2-pro
 neilpang/acme.sh
-blade2005/flood-rtorrent
