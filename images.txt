@@ -15,12 +15,12 @@ chishin/nginx-proxy-manager-zh:release
 ghcr.io/hotio/qbittorrent:release
 qdtoday/qd
 whyour/qinglong
-jesec/rtorrent-flood
 crazymax/rtorrent-rutorrent
 hslr/sun-panel
 chemistryhuang/typecho
-jesec/flood
-jesec/rtorrent
+jesec/rtorrent-flood:latest
+jesec/flood:latest
+jesec/rtorrent:latest
 nevadax0120/cloudreve:latest
 ddsderek/aria2-pro
 neilpang/acme.sh
