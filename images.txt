@@ -25,3 +25,4 @@ jesec/rtorrent:latest
 nevadax0120/cloudreve:latest
 ddsderek/aria2-pro
 neilpang/acme.sh
+linuxserver/swag:latest
