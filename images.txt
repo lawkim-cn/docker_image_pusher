@@ -2,3 +2,20 @@
 --platform=linux/arm64 xiaoyaliu/alist
 mritd/dnsacme:unraid
 vaultwarden/server
+mzz2017/v2raya
+chuckcharlie/cups-avahi-airprint:latest
+xhofe/alist:latest
+halohub/halo:1.6.1
+lscr.io/linuxserver/heimdall
+suwmlee/ikaros
+realwang/nastools-unlock
+deluan/navidrome
+chishin/nginx-proxy-manager-zh:release
+6053537/portainer-ce
+ghcr.io/hotio/qbittorrent:release
+qdtoday/qd
+whyour/qinglong
+jesec/rtorrent-flood
+crazymax/rtorrent-rutorrent
+hslr/sun-panel
+chemistryhuang/typecho
