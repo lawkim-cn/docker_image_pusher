@@ -28,3 +28,4 @@ neilpang/acme.sh
 linuxserver/swag:latest
 chengxudong2020/rustdeskserver
 ghcr.io/kingmo888/rustdesk-api-server:latest
+lscr.io/linuxserver/pairdrop
